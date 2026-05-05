@@ -1,4 +1,4 @@
-# Instalei o void
+# Instalei o void (installer)
 
 No dia 29/01/2026 vulgo ontem me deu uma vontade de experimentar algo completamente novo (mesmo que uns dias atras eu estava iniciando no VIM, inclusive eu estou escrevendo esse capitulo nele) entao eu baixei a ISO do void xfce com glibc e fui instalar removendo o fedora da minha particao.
 
