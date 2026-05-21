@@ -9,7 +9,7 @@ Eu irei escrever aqui minhas anotações de estudo durante minha tragetória
 
 ## Site:
 
-[clique aqui](https://lucas-rabello-dev.github.io/rumo-ao-gentoo/)
+[clique aqui](https://t3cl4do820.github.io/rumo-ao-gentoo/)
 
 ## Contribua
 
